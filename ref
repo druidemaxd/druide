@@ -1,0 +1,6 @@
+echo "# druide" >> README.md 
+git init 
+git ajouter README.md 
+git commit -m "premier commit" 
+git distant ajouter origine https://github.com/druidemaxd/druide.git
+ git push -u origine master
